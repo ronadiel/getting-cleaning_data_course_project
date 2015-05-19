@@ -11,5 +11,5 @@
 * Descriptive activity names are used to name the activities in the dataset using activity_labels.txt
 * the plyr package is used to simplify the analysis, e.g. using the aggregate() function.
 
-## Finally, the tidy dataset Data_tidy is created by pooling only the required parameters, and this is writen into tidydata.txt
+### Finally, the tidy dataset Data_tidy is created by pooling only the required parameters, and this is writen into tidydata.txt
 
