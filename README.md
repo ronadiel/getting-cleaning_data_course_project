@@ -12,3 +12,4 @@
 * the plyr package is used to simplify the analysis, e.g. using the aggregate() function.
 
 ### Finally, the tidy dataset Data_tidy is created by pooling only the required parameters, and this is writen into tidydata.txt
+test
